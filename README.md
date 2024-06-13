@@ -2,7 +2,7 @@
 
  Project Overview
 
-This project is a Database Management System (DMS) designed to manage data related to anime characters. The system is developed as part of the software engineering coursework to demonstrate practical application of database management concepts using Java.
+This project is a Database Management System (DMS) designed to manage data related to anime characters.
 
  Purpose
 
